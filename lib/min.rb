@@ -7,7 +7,3 @@ require 'pry'
 #  meat: ["chicken", "steak", "salmon"],
 #  grains: ["rice", "pasta"]
 # }
-
-def get_the_min(groceries)
-  #code your solution here!
-end
